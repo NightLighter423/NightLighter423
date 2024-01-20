@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NightLighter423
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning SDL2
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me create an issue on this repo
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I HATE PYTHON!!!
