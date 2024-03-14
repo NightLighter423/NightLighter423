@@ -2,6 +2,6 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning SDL2
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me create an issue on this repo
+- 📫 How to reach me DM me on Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I HATE PYTHON!!!
